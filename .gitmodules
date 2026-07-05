@@ -1,0 +1,3 @@
+[submodule "gitaiops/notiflex-platform"]
+	path = gitaiops/notiflex-platform
+	url = https://github.com/JiwonDev/notiflex-platform.git
